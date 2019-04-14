@@ -1,0 +1,24 @@
+header h3{
+	font-variant: normal;
+	color: #A76060;
+	font-size: 30px;
+	font-family: serif;
+	}
+article hr{
+	width: 60%;
+	height: 1px;
+	background: none repeat scroll 0% 0% #A76060;
+	margin: 10px 0;
+	border: 0;
+}
+content{
+	font-family:times new roman, serif;
+}
+
+content p{
+	padding:5px 0px;
+	/*background:#35383E*/
+}
+footer{
+	padding-top:10px;
+}

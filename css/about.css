@@ -1,0 +1,70 @@
+.skills_progress_bar{
+	width:530px;
+	height: 10px;
+	border: 2px solid #E5E3E3;
+	border-radius: 10px;
+}
+.skills_progress{
+	height: 10px;
+	background: #E5E3E3;
+}
+
+.progress{width:535px;}
+.progress_title{
+	height:25px;
+	width:60px;
+	margin-top: 5.5pc;
+	text-align: center;
+	border:3px dotted black;
+  -ms-transform: rotate(90deg); /* IE 9 */
+  -webkit-transform: rotate(90deg); /* Safari */
+  transform: rotate(90deg);
+}
+
+.design .skills_progress{background:#E5E3E3}
+.design .skills_progress_bar{border-color:#E5E3E3}
+.design .progress_title{border-color:#E5E3E3}
+.coding .skills_progress{background:#CE5453}
+.coding .skills_progress_bar{border-color:#CE5453}
+.coding .progress_title{border-color:#CE5453}
+.assets .skills_progress{background:#35383E}
+.assets .skills_progress_bar{border-color:#35383E}
+.assets .progress_title{border-color:#35383E}
+
+/*about.css content*/
+.edu-work{padding: 10px 0px}
+.edu-work h3, .edu-work h5{
+	padding: 0;
+}
+.edu-work h5{font-style: italic;}
+.edu-work em{
+	font-weight: normal;
+	float: right;
+	font-size: 8px;
+	font-variant-caps: all-small-caps;
+}
+.edu-work p{
+	
+}
+
+.lang{
+	width: 150px;
+}
+.lang h4, .lang h6{
+	padding:0px;
+}
+
+.hobby{
+	width: 100px;
+	height: 100px;
+	margin: 5px 10px;
+	border-radius: 100%;
+	text-align: center;
+	background: #35383E;
+	opacity: .6;
+	transition: all .5s ease-in-out;
+}
+.hobby:hover{opacity: 1}
+.hobby h3{
+	padding-top: 26px;
+}

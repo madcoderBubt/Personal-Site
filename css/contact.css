@@ -1,0 +1,13 @@
+/*contact.css content*/
+.input_icon_container{
+	position: relative;
+	overflow:hidden;
+}
+.input_icon_container .fa{
+	position: absolute;
+	top: 13px;
+	left: 13px;
+}
+.input_icon_container input, .input_icon_container textarea{padding-left: 30px}
+.input_icon_container textarea{min-height: 200px;}
+.input_icon_container em{font-family:"Times New Roman", serif;color:#CE5453}
